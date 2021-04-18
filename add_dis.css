@@ -1,0 +1,40 @@
+.box{
+    margin:auto;
+    background-image:linear-gradient(to right,#fc87da 0%,#cb94ef 36%,#41e0e7 70%,#28f6c2 100%);
+    
+  align-items:center;
+    text-align:center;
+    width:800px;
+    height:700px;
+    font-family: 'Amatic SC', cursive;
+    font-size:40px;
+  }
+  body{
+    background-color:black;
+    margin:0;
+    padding:0;
+  }
+  button{
+    background-color:black;
+    color:white;
+    border:none;
+    font-size:24px;
+    border-radius:5px;
+    font-family: 'Sacramento', cursive;
+  }
+  h4{
+    color:white;
+    
+  }
+  input{
+    border:none;
+    font-size:24px;
+    border-radius:10px;
+    color:white;
+    background-color:black;
+    font-family: 'Sacramento', cursive;
+  }
+  
+  #div{
+    background-color:black;
+  }
